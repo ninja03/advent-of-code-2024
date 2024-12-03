@@ -1,4 +1,4 @@
-import { TextLineStream } from '@std/streams'
+import { TextLineStream } from 'jsr:@std/streams'
 
 let safe = 0; // 安全の数
 let prev = 0; // 前の数値
